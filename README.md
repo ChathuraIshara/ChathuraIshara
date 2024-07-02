@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./header2.png)
 <h1 align="center">Hi 👋, I'm Chathura Ishara</h1>
 <h3 align="center">"An enthusiastic fullstack developer hailing from the vibrant landscapes of Sri Lanka"</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&s">
