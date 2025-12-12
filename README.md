@@ -1,5 +1,4 @@
 ![Header](./header3.gif)
-![Header](./header3.gif)
 <h1 align="center">Hi 👋, I'm Chathura Ishara</h1>
 <h3 align="center">An enthusiastic fullstack developer hailing from the vibrant landscapes of Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966">
@@ -16,15 +15,15 @@
 
 - 🤝 I’m looking for help with **connecting with developers for open-source work**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-beta-smoky.vercel.app/](https://myportfolio-beta-smoky.vercel.app/)
+- 👨‍💻 All of my projects are available at [[Explore My Portfolio](https://myportfolio-beta-smoky.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@chathuraishara63](https://medium.com/@chathuraishara63)
+- 📝 I regularly write articles on [Read My Articles on Medium](https://medium.com/@chathuraishara63)
 
 - 💬 Ask me about **React.js,Next.js,Asp.net,Java,Python**
 
 - 📫 How to reach me **chathuraishara63@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VrJ_sxkhFyD4qvcRzGH7mCQzovv-m2Y8/view?usp=drive_link](https://drive.google.com/file/d/1VrJ_sxkhFyD4qvcRzGH7mCQzovv-m2Y8/view?usp=drive_link)
+- 📄 Know about my experiences [Download My Resume](https://drive.google.com/file/d/1VrJ_sxkhFyD4qvcRzGH7mCQzovv-m2Y8/view?usp=drive_link)
 
 - ⚡ Fun fact **I have a knack for turning bugs into features**
 
