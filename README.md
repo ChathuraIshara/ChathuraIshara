@@ -2,9 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋%2C+I'm+Chathura+Ishara" alt="Typing SVG" />
 </p>
 
-<p align="center" style="margin-top: 10px; font-size: 18px; color: #6c63ff; font-weight: 500; line-height: 1.4;">
-  A passionate full-stack developer<br>crafting meaningful digital experiences
+<p align="center" style="margin-top: 5px; font-size: 20px; color: #6c63ff; font-weight: 500;">
+  Full-Stack Developer
 </p>
+
 
 
 
