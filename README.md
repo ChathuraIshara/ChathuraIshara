@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **connecting with developers for open-source work**
 
-- 👨‍💻 All of my projects are available at [[Explore My Portfolio](https://myportfolio-beta-smoky.vercel.app/)
+- 👨‍💻 All of my projects are available at [Explore My Portfolio](https://myportfolio-beta-smoky.vercel.app/)
 
 - 📝 I regularly write articles on [Read My Articles on Medium](https://medium.com/@chathuraishara63)
 
