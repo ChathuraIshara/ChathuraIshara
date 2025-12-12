@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="margin-top: 10px; font-size: 36px; font-weight: 900; color: #6c63ff; letter-spacing: 1px; text-transform: uppercase;">
-  Full-Stack Develope
+  Full-Stack Developer
 </p>
 
 
