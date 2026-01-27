@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **chathuraishara63@gmail.com**
 
-- 📄 Know about my experiences [Download My Resume](https://drive.google.com/file/d/1VrJ_sxkhFyD4qvcRzGH7mCQzovv-m2Y8/view?usp=drive_link)
+- 📄 Know about my experiences [Download My Resume](https://drive.google.com/file/d/1VrJ_sxkhFyD4qvcRzGH7mCQzovv-m2Y8/view)
 
 - ⚡ Fun fact **I have a knack for turning bugs into features**
 
